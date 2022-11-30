@@ -1,2 +1,6 @@
 # Thesis-RPI-Arduino
-Code developed during master Thesis
+
+## Overview
+
+Code developed during master's Thesis
+
